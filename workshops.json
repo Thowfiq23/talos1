@@ -105,7 +105,7 @@
     "description": "Step into the future of intelligence! Master the Model Context Protocol (MCP) to build autonomous AI agents that don't just chat—they act, connect to APIs, and solve real-world problems in real-time.",
     "main_description": "Move beyond basic prompts and enter the era of AI Agents! This workshop introduces you to the Model Context Protocol (MCP), the industry standard for connecting AI models to external tools and data safely. From understanding agent architecture to witnessing a live demonstration of an MCP-powered assistant, you'll learn how to build 'brains' that can interact with the physical and digital world. Perfect for students eyeing future tech careers and hackathon glory.",
     "image_url": "images/workshop-images/MCP and AI.png",
-    "status": "open",
+    "status": "closed",
     "registration_fee": 150,
     "max_participants": 100,
     "rules": "Prerequisites: Participants should have a basic understanding of programming logic and a passion for AI. Technical Setup: Laptops are optional but encouraged for taking notes; stable internet and power will be provided. Attendance: Please arrive 10 minutes early to ensure a smooth start for the live demonstration. Interactive Session: Questions are encouraged during the Q&A segment; please remain attentive during the live MCP demo. Resource Use: All API access and demo materials provided are for educational purposes during the workshop.",
