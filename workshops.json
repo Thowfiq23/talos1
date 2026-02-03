@@ -44,7 +44,7 @@
     "description": "Ever wanted to build a video game without coding? BYOG is a beginner-friendly game design workshop and mini jam where participants learn core design concepts and create a playable game using a no-code engine.",
     "main_description": "BYOG is a hands-on game design workshop combined with a mini game jam. Participants are introduced to fundamental game design principles and guided through building a game using a no-code engine. After a live demonstration, participants enter a creative sprint to design and develop their own playable game prototype. The event focuses on creativity, gameplay design, and practical learning, ensuring every participant leaves with a functional game build",
     "image_url": "/images/workshop-images/Build Your own Game.jpg",
-    "status": "open",
+    "status": "closed",
     "registration_fee": 150,
     "max_participants": 100,
     "rules": "• The event duration is 2 hours, consisting of a guided workshop followed by a creative game jam. • Participants may work solo or in teams of 2–4 members. • All projects must start from a new, blank project at the beginning of the event. • Pre-made games or previously worked-on projects are not allowed. • Participants may use free built-in assets or create simple custom assets. • Focus should be on gameplay and mechanics, not just visuals. • Judges will evaluate teams during the build phase based on creativity, clarity of mechanics, and implementation quality. • Selected projects will be showcased briefly at the end of the event. • Judges' and organizers' decisions are final and binding.",
